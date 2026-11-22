@@ -77,3 +77,4 @@ Toute modification retroactive d'une capture change la racine et devient donc de
 | 2026-11-18T0809Z | incremental | `14d343ea48ed11d6a585cd44bf76448110f197b2c05aa53e3fa8f45e036d75fa` | 383 | 213164312 |
 | 2026-11-19T0833Z | incremental | `6bf23301279828a65531a0e62d0a94e9a89cd10a01fff81e9fac25d3e54f0726` | 383 | 211828901 |
 | 2026-11-20T2019Z | incremental | `9dbcdb5f0fa48a9e873e6a4500fc7d9faefd2a249552830aeaa35a17799462b6` | 371 | 218777974 |
+| 2026-11-22T0829Z | incremental | `bde99d5e25eb304688daff35d2ae7f03ef2415f1625fc9fb7ea6f297abeece3b` | 316 | 210301972 |
